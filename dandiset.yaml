@@ -31,14 +31,22 @@ assetsSummary:
   - OpticalChannel
   - TwoPhotonSeries
   - ImagingPlane
-citation: Age affects odor-evoked calcium responses in the ant antennal lobe (2024).
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000773/draft
+citation: Hart, Taylor (2024) Age affects odor-evoked calcium responses in the ant
+  antennal lobe (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000773/draft
 contributor:
 - awardNumber: 5 R01 NS 123899-02
   name: National Institutes of Health (NIH)
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- email: harttdp@gmail.com
+  identifier: 0000-0001-9692-8150
+  includeInCitation: true
+  name: Hart, Taylor
+  roleName:
+  - dcite:Author
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2024-01-04T19:31:15.719296+00:00'
 description: "Calcium imaging experiments were performed on the clonal raider ant
   antennal lobe to determine whether odor coding is modulated during aging. Ants were
